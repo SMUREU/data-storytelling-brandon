@@ -16,16 +16,6 @@ Data sources:
 - Nighttime lights data for both Laos and Cambodia is from the [Earth Observation Group](https://eogdata.mines.edu/products/vnl/) at the Colorado School of Mines 
 
 
-My analysis confirmed the findings of Yamada and Yamada (2021) and others, such as Miguel and Roland (2006). There does not seem to be an association between long-run economic development and bombings during the Second Indochina War. However, I must emphasize that my findings are based on a highly qualitative look at visualizations based on two variables. I did not perform any statistical modeling or other causal identification techniques, nor did I control for covariates. There is still much work to be done on the topic, potentially with new causal identification strategies. 
-
-Following the guidleines of the REU, my repo is organized exactly as follows: 
-
-data-storytelling-brandon 
-│
-├── README.md
-├── data/
-├── notebooks/
-├── figures/
-└── presentation/
+My analysis confirmed the findings of Yamada and Yamada (2021) and others, such as [Miguel and Roland (2006)](https://www.nber.org/system/files/working_papers/w11954/w11954.pdf). There does not seem to be an association between long-run economic development and bombings during the Second Indochina War. However, I must emphasize that my findings are based on a highly qualitative look at visualizations based on two variables. I did not perform any statistical modeling or other causal identification techniques, nor did I control for covariates. There is still much work to be done on the topic, potentially with new causal identification strategies. 
 
 Relevant files can be found in each folder. 
